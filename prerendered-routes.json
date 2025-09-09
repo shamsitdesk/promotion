@@ -1,0 +1,7 @@
+{
+  "routes": {
+    "/promo": {},
+    "/promo/barcode": {},
+    "/promo/print": {}
+  }
+}
